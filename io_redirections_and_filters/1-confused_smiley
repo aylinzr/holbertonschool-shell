@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "(\xC3\x94o)'\n"
+echo $\'U+1F615'
