@@ -1,2 +1,2 @@
 #!/bin/bash
-echo echo -e '\U1F615'
+echo -e "(\xC3\x94o)'\n"
