@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt --time=modification --ignore='*/' | head -n 10
+ls -lt --time=modification --ignore='*/'| head -n 10
